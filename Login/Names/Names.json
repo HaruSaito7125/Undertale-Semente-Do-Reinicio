@@ -1,5 +1,5 @@
 {
-  "PLACIDE":{"Name Color":"#00fbff","Type":true},
+  "PLACIDE":{"Name Color":"#00fbff","Sound":"Placide","Type":true},
   "IUSTITI":{"Name Color":"#fffb00","Sound":"Iustiti","Type":true},
   "MESTRE":{"Quote":"Bem vindo, mestre.","Quote Color":"RAINBOW","Name Color":"RAINBOW","Sound":"Mestre","Type":true},
   "FLOWEY":{"Quote":"EU sou o Deus desse mundo, não você.","Quote Color":"#ff0000","Sound":"Flowey"},
