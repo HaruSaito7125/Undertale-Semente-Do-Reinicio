@@ -1,0 +1,20 @@
+{
+  "0":{"Left Arrow":1,"Up Arrow":"Confirm"},
+  "28":{"Up Arrow":21,"Down Arrow":35,"Right Arrow":29,"Left Arrow":27},
+  "56":{"Down Arrow":"Confirm","Right Arrow":55},
+  "57":{"Down Arrow":"Space"},
+  "58":{"Down Arrow":"Space"},
+  "59":{"Down Arrow":"Delete"},
+  "60":{"Down Arrow":"Delete"},
+  "61":{"Down Arrow":"Confirm"},
+  "62":{"Down Arrow":"Confirm"},
+  "-6":{"Up Arrow":"Space"},
+  "-5":{"Up Arrow":"Space"},
+  "-4":{"Up Arrow":"Delete"},
+  "-3":{"Up Arrow":"Delete"},
+  "-2":{"Up Arrow":"Confirm"},
+  "-1":{"Up Arrow":"Confirm"},
+  "Space":{"Up Arrow":50,"Down Arrow":1,"Right Arrow":"Delete","Left Arrow":"Confirm"},
+  "Delete":{"Up Arrow":52,"Down Arrow":3,"Right Arrow":"Confirm","Left Arrow":"Space"},
+  "Confirm":{"Up Arrow":54,"Down Arrow":5,"Right Arrow":"Space","Left Arrow":"Delete"}
+}
